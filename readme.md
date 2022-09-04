@@ -23,4 +23,4 @@ Class: Check
 
 
 ## Have feedback for me?
-Feel free to send me an email at jr4162@columbia.edu or find me on [LinkedIn](https://www.linkedin.com/feed/)
+Feel free to send me an email at jr4162@columbia.edu or find me on [LinkedIn](https://www.linkedin.com/in/joe-rebagliati-4ab7a488/)
