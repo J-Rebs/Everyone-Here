@@ -32,3 +32,5 @@ Feel free to send me an email at jr4162@columbia.edu or find me on [LinkedIn](ht
 Below is a video guide that walks through how to use the `check_email.exe` file and how to get it onto your computer. As one correction, I note in the video that if it doesn't display a name in the console but just an email, then the reciepient isn't on Outlook or in your Outlook organization. I'm not sure this is actually the case.
 
 Also I know the audio is quiet, so you may need to use headphones. Thanks!
+
+![Video Guide](https://github.com/J-Rebs/Everyone-Here/blob/3d39e5f9b1ee3ea07b8bd4be4e85f8b0633255f4/support/video_guide.mp4)
