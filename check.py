@@ -6,6 +6,7 @@ https://stackoverflow.com/questions/38899956/python-win32com-get-outlook-event-a
 https://docs.microsoft.com/en-us/office/vba/outlook/how-to/search-and-filter/search-the-calendar-for-appointments-within-a-date-range-that-contain-a-specific
 https://pythoninoffice.com/get-outlook-calendar-meeting-data-using-python/ 
 https://docs.microsoft.com/en-us/office/client-developer/outlook/pia/how-to-check-all-responses-to-a-meeting-request 
+https://docs.microsoft.com/en-us/office/vba/api/outlook.olresponsestatus
 """
 import win32com.client, win32timezone
 import os
@@ -32,7 +33,7 @@ class Check():
             print('Recipients are:')
             recipients = appointment.Recipients
             for person in recipients:
-                if person.MeetingResponseStatus != 1:
+                if person.MeetingResponseStatus != 3:
                     print(person, "has NOT accepted (tentative, declined, or no response)")
                 else:
                     print(person, "has accepted")
