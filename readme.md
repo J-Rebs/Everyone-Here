@@ -20,7 +20,15 @@ Class: Check
 
 1. Graphical interface with QT 
 2. Add an icon for the executable 
+3. Better how to video with louder audio
 
 
 ## Have feedback for me?
-Feel free to send me an email at jr4162@columbia.edu or find me on [LinkedIn](https://www.linkedin.com/in/joe-rebagliati-4ab7a488/)
+Feel free to send me an email at jr4162@columbia.edu or find me on [LinkedIn](https://www.linkedin.com/in/joe-rebagliati-4ab7a488/).
+
+
+## Video Guide
+
+Below is a video guide that walks through how to use the `check_email.exe` file and how to get it onto your computer. As one correction, I note in the video that if it doesn't display a name in the console but just an email, then the reciepient isn't on Outlook or in your Outlook organization. I'm not sure this is actually the case.
+
+Also I know the audio is quiet, so you may need to use headphones. Thanks!
