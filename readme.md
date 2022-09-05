@@ -33,4 +33,4 @@ Below is a video guide that walks through how to use the `check_email.exe` file 
 
 Also I know the audio is quiet, so you may need to use headphones. Thanks!
 
-![](https://youtu.be/gy4-afE_uHw)
+[![Watch the video](https://img.youtube.com/vi/gy4-afE_uHw/0.jpg)](https://www.youtube.com/watch?v=gy4-afE_uHw)
