@@ -4,7 +4,7 @@ To build out a simple script that when run returns information on upcoming calen
 
 ## How to use
 
-If you would like to use the executable, go to the `Exectuable` folder in this repository and download the `check_email.exe` file. 
+If you would like to use the executable, go to the `exectuable` folder in this repository and download the `check_email.exe` file. 
 
 ## Who can use this
 
