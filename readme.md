@@ -10,7 +10,7 @@ If you would like to use the executable, go to the `exectuable` folder in this r
 
 This script is free to use, but it has only been tested on a Dell Windows 11 machine. It is assumed not to work with Macs or with non-Outlook email clients. Furthermore, extensive testing of edge conditions is not complete. Use this executable at your own risk.
 
-A second version is under development that addresses ensuring:
+A second version is under development to address two bugs which are:
  - capture 24 hour time frame
  - clearer response messages to avoid misleading print out
  
