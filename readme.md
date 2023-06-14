@@ -2,6 +2,9 @@
 
 To build out a simple script that when run returns information on upcoming calendar appointments in Microsoft Outlook. The tool is intended to look for meetings in the next 24 hours. 
 
+## Dev notes:
+- development stopped for now after initial prototype, further refactoring can be done at a later point 
+
 ## Bug notes
 
 - if I am not the organizer of the meeting it shows everyone as “not responded to the invite“ when I actually can not know this information
